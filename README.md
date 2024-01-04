@@ -7,4 +7,6 @@
 
 
 
+<!-- Please use this template when necessary
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hzxuzhonghu)](https://git.io/streak-stats)
+-->
