@@ -1,7 +1,7 @@
 ### About Me 👋
 
 
-- 🔭 I’m currently working on Istio， Kmesh
+- 🔭 I’m currently working on service mesh Istio,Kmesh
 - 👯 I’m looking to collaborate on Kmesh
 
 
